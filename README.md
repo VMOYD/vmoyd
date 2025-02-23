@@ -1,45 +1,44 @@
-# Hi there, I'm Vyom! 👋
+### Hi there, I'm <b>Vyom</b>! 👋
+#### 🚀 AI Enthusiast | Software Developer | Cybersecurity Learner
 
-## 🚀 About Me
-I'm an AI enthusiast and software developer passionate about building innovative and efficient solutions. I love working on AI-driven applications, ethical hacking, and automation tools. Currently, I'm completing my AI internship at NetApp and exploring job opportunities.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vmoyd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🛠 Tech Stack
-- **Languages:** Python, JavaScript, C++
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** FastAPI, Node.js, Express.js
-- **Databases:** PostgreSQL, Firebase
-- **DevOps & Tools:** Docker, Git, GitHub Actions
-- **Other Interests:** Ethical Hacking, Cybersecurity, AI/ML, Web Automation
+🌱 **Currently Learning:** Ethical Hacking, Cybersecurity, Advanced AI Model Deployment, Cloud & DevOps
 
-## 📌 Projects
-- **Past Preserve** – A digital time capsule for reflecting on personal growth.
-- **AI-Powered PPT Generator** – Automates content generation for presentations.
-- **AI Browser Assistant** – A browser extension that integrates with Google Calendar.
-- **Personal Portfolio** – Built using React.js, showcasing my work and projects.
+💻 **Portfolio:** [vmoyd.github.io/portfolio-app](https://vmoyd.github.io/portfolio-app/)
 
-## 🌱 I’m currently learning
-- Ethical Hacking & Cybersecurity
-- Advanced AI Model Deployment
-- Cloud & DevOps Technologies
+📩 **Contact Me:** vyomdubeykp@gmail.com
 
-##📫 How to reach me
-- **Mail** [VYOMDUBEYKP@gmail.com](mailto:vyomdubeykp@gmail.com)
-- **Portfolio:** [VYOM-DUBEY](https://vmoyd.github.io/portfolio-app/)
-- **BGMI Live Stream:** [LynxSpawn](https://www.youtube.com/channel/UCpjxHechB6BeyMo4Lcsm9zw?sub_confirmation=1)
+📄 **Resume:** [View Here](https://vmoyd.github.io/portfolio-app/#about)
 
-Always open to collaborations, discussions, and fun tech projects! 🚀
+---
+### 🔗 Connect with Me:
+<p align="center">
+  <a href="https://x.com/dubey_vyom_" target="_blank"><img src="https://img.shields.io/twitter/follow/dubey_vyom_?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/vyom-dubey" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/vyom_dubey_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
 
-<!--
-**VMOYD/vmoyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### ⚡ Tech Stack & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nodejs,docker,kubernetes,aws,azure,gcp,git,linux,html,css,tailwind,mysql,mongodb,postgres,redis,tensorflow,pytorch" alt="Tech Stack" />
+</p>
 
-Here are some ideas to get you started:
+---
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vmoyd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmoyd&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmoyd&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🏆 GitHub Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vmoyd&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+🚀 Let's build and innovate together!
