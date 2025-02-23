@@ -17,15 +17,15 @@ I'm an AI enthusiast and software developer passionate about building innovative
 - **AI Browser Assistant** – A browser extension that integrates with Google Calendar.
 - **Personal Portfolio** – Built using React.js, showcasing my work and projects.
 
-## 🎯 Currently Learning
+## 🌱 I’m currently learning
 - Ethical Hacking & Cybersecurity
 - Advanced AI Model Deployment
 - Cloud & DevOps Technologies
 
-## 📫 Let's Connect!
+##📫 How to reach me
 - **Mail** [VYOMDUBEYKP@gmail.com](mailto:vyomdubeykp@gmail.com)
-- **Portfolio:** [VYOM-DUBEY]([https://github.io/](https://vmoyd.github.io/portfolio-app/))
-- **BGMI Live Stream:** [LynxSpawn]([https://youtube.com/yourchannel](https://www.youtube.com/channel/UCpjxHechB6BeyMo4Lcsm9zw?sub_confirmation=1))
+- **Portfolio:** [VYOM-DUBEY](https://vmoyd.github.io/portfolio-app/)
+- **BGMI Live Stream:** [LynxSpawn](https://www.youtube.com/channel/UCpjxHechB6BeyMo4Lcsm9zw?sub_confirmation=1)
 
 Always open to collaborations, discussions, and fun tech projects! 🚀
 
