@@ -9,13 +9,14 @@
 
 💻 **Portfolio:** [vmoyd.github.io/portfolio-app](https://vmoyd.github.io/portfolio-app/)
 
-📩 **Contact Me:** vyomdubeykp@gmail.com
+📩 **Contact Me:** [vyomdubeykp@gmail.com](mailto:vyomdubeykp@gmail.com)
 
 📄 **Resume:** [View Here](https://vmoyd.github.io/portfolio-app/#about)
 
 ---
 ### 🔗 Connect with Me:
 <p align="center">
+  <a href=""
   <a href="https://x.com/dubey_vyom_" target="_blank"><img src="https://img.shields.io/twitter/follow/dubey_vyom_?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/vyom-dubey" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/vyom_dubey_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
