@@ -11,7 +11,7 @@
 
 📩 **Contact Me:** [vyomdubeykp@gmail.com](mailto:vyomdubeykp@gmail.com)
 
-📄 **Resume:** [View Here](https://vmoyd.github.io/portfolio-app/#contact)
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1Le6HlSSsj40UfJ4xCL2MJK7tCKCp3Xmu/view?usp=sharing)
 
 ---
 ### 🔗 Connect with Me:
